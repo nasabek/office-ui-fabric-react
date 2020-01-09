@@ -1,0 +1,3 @@
+/* tslint:disable */
+import { loadStyles } from '@microsoft/load-themed-styles';
+loadStyles([{"rawString":"/*---------------------------------------------------------------------------------------------\n *  Copyright (c) Microsoft Corporation. All rights reserved.\n *  Licensed under the MIT License. See License.txt in the project root for license information.\n *--------------------------------------------------------------------------------------------*/\n\n.context-view .monaco-menu {\n\tmin-width: 130px;\n}\n\n.context-view-block {\n\tposition: fixed;\n\tleft:0;\n\ttop:0;\n\tz-index: -1;\n\twidth: 100%;\n\theight: 100%;\n}"}]);

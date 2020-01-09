@@ -1,0 +1,3 @@
+/* tslint:disable */
+import { loadStyles } from '@microsoft/load-themed-styles';
+loadStyles([{"rawString":"/*---------------------------------------------------------------------------------------------\n *  Copyright (c) Microsoft Corporation. All rights reserved.\n *  Licensed under the MIT License. See License.txt in the project root for license information.\n *--------------------------------------------------------------------------------------------*/\n\n.monaco-editor .rename-box {\n\tz-index: 100;\n\tcolor: inherit;\n}\n\n.monaco-editor .rename-box .rename-input {\n\tpadding: 4px;\n}\n"}]);

@@ -1,0 +1,3 @@
+/* tslint:disable */
+import { loadStyles } from '@microsoft/load-themed-styles';
+loadStyles([{"rawString":"/*---------------------------------------------------------------------------------------------\n *  Copyright (c) Microsoft Corporation. All rights reserved.\n *  Licensed under the MIT License. See License.txt in the project root for license information.\n *--------------------------------------------------------------------------------------------*/\n\n.context-view {\n\tposition: absolute;\n\tz-index: 2000;\n}"}]);

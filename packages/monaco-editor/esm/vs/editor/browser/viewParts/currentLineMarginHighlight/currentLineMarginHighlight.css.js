@@ -1,0 +1,3 @@
+/* tslint:disable */
+import { loadStyles } from '@microsoft/load-themed-styles';
+loadStyles([{"rawString":"/*---------------------------------------------------------------------------------------------\n *  Copyright (c) Microsoft Corporation. All rights reserved.\n *  Licensed under the MIT License. See License.txt in the project root for license information.\n *--------------------------------------------------------------------------------------------*/\n\n.monaco-editor .margin-view-overlays .current-line {\n\tdisplay: block;\n\tposition: absolute;\n\tleft: 0;\n\ttop: 0;\n\tbox-sizing: border-box;\n}\n\n.monaco-editor .margin-view-overlays .current-line.current-line-margin.current-line-margin-both {\n\tborder-right: 0;\n}"}]);

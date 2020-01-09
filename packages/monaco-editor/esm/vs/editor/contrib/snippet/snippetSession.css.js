@@ -1,0 +1,3 @@
+/* tslint:disable */
+import { loadStyles } from '@microsoft/load-themed-styles';
+loadStyles([{"rawString":"/*---------------------------------------------------------------------------------------------\n *  Copyright (c) Microsoft Corporation. All rights reserved.\n *  Licensed under the MIT License. See License.txt in the project root for license information.\n *--------------------------------------------------------------------------------------------*/\n\n.monaco-editor .snippet-placeholder {\n\tmin-width: 2px;\n\toutline-style: solid;\n\toutline-width: 1px;\n}\n\n.monaco-editor .finish-snippet-placeholder {\n\toutline-style: solid;\n\toutline-width: 1px;\n}\n"}]);
